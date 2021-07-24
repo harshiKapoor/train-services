@@ -1,0 +1,58 @@
+{
+    "records": [
+        {
+            "id": "25",
+            "field": "1st Class",
+            "lastModifiedByDisplayName": "Unknown User",
+            "fieldId": 3,
+            "code": "Y",
+            "description": "1st Class Accommodation available",
+            "lastModified": "2011-09-21T23:59:06.11"
+        },
+        {
+            "id": "40",
+            "field": "Buffet",
+            "lastModifiedByDisplayName": "Unknown User",
+            "fieldId": 5,
+            "code": "Y",
+            "description": "Buffet Service",
+            "lastModified": "2011-09-21T23:59:06.11"
+        },
+        {
+            "id": "16",
+            "field": "Direct Service",
+            "lastModifiedByDisplayName": "Unknown User",
+            "fieldId": 1,
+            "code": "Y",
+            "description": "Direct Service",
+            "lastModified": "2011-09-21T23:59:06.11"
+        },
+        {
+            "id": "19",
+            "field": "Reservations",
+            "lastModifiedByDisplayName": "Unknown User",
+            "fieldId": 2,
+            "code": "Y",
+            "description": "Reservable Service",
+            "lastModified": "2011-09-21T23:59:06.11"
+        },
+        {
+            "id": "30",
+            "field": "Restaurant",
+            "lastModifiedByDisplayName": "Unknown User",
+            "fieldId": 4,
+            "code": "Y",
+            "description": "Restaurant Service available on some services",
+            "lastModified": "2011-09-21T23:59:06.11"
+        },
+        {
+            "id": "63",
+            "field": "Sleeper",
+            "lastModifiedByDisplayName": "Unknown User",
+            "fieldId": 9,
+            "code": "Y",
+            "description": "Caledonian Sleeper service offering First Class (single berth) and Standard Class (twin berth) accommodation throughout the journey. Limited Standard Class superior seating available.",
+            "lastModified": "2011-09-21T23:59:06.11"
+        }
+    ]
+}
